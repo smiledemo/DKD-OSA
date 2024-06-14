@@ -4,3 +4,4 @@
 *.iml
 *.ipr
 venv/
+.DS_Store
